@@ -1,0 +1,27 @@
+_repo: Five-Minute-Sermons-Volume-I_60107
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - http://en.wikipedia.org/wiki/Anonymity
+  - agent_name: Brown, Rev. Algernon A.
+    gutenberg_agent_id: '50796'
+    url: http://www.gutenberg.org/2009/agents/50796
+description: ''
+gutenberg_issued: '2019-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Five Minute Sermons, Volume I.
+url: http://www.gutenberg.org/ebooks/60107
